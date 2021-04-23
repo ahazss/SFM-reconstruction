@@ -1,0 +1,19 @@
+﻿  main.cpp
+Z:\Software\workspace\SFM\OpenCV实现SfM双目三维重建\main.cpp(41,21): warning C4018: “<”: 有符号/无符号不匹配
+Z:\Software\workspace\SFM\OpenCV实现SfM双目三维重建\main.cpp(44,38): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+Z:\Software\workspace\SFM\OpenCV实现SfM双目三维重建\main.cpp(44,33): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+Z:\Software\workspace\SFM\OpenCV实现SfM双目三维重建\main.cpp(58,20): warning C4018: “<”: 有符号/无符号不匹配
+Z:\Software\workspace\SFM\OpenCV实现SfM双目三维重建\main.cpp(119,20): warning C4018: “<”: 有符号/无符号不匹配
+Z:\Software\workspace\SFM\OpenCV实现SfM双目三维重建\main.cpp(136,20): warning C4018: “<”: 有符号/无符号不匹配
+Z:\Software\workspace\SFM\OpenCV实现SfM双目三维重建\main.cpp(197,23): warning C4018: “<”: 有符号/无符号不匹配
+Z:\Software\workspace\SFM\OpenCV实现SfM双目三维重建\main.cpp(204,23): warning C4018: “<”: 有符号/无符号不匹配
+Z:\Software\workspace\SFM\OpenCV实现SfM双目三维重建\main.cpp(211,23): warning C4018: “<”: 有符号/无符号不匹配
+LINK : fatal error LNK1104: 无法打开文件“opencv_world430d.lib”

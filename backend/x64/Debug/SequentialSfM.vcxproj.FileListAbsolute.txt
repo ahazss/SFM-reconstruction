@@ -1,0 +1,2 @@
+Z:\Software\workspace\SFM\sfm1\x64\Debug\SequentialSfM.exe
+Z:\Software\workspace\SFM\sfm1\x64\Debug\SequentialSfM.pdb
